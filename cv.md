@@ -27,3 +27,8 @@ Use: `VSCode`, `Idea`, `Ubuntu`
   console.log(testArr); 
 })();
 ```
+## Expirience
+I don't have real expirience, but I tried to do some things. I have used Js, Java, HTML, CSS, MySql.
+
+## Education
+College graduate: Technician-programmer & Semiconductor manufacturing operator
