@@ -17,3 +17,13 @@ Markup: `HTML`, `CSS`
 Db: `MySQL`     
 Other: `Git`, `Linux`, `Bash`       
 Use: `VSCode`, `Idea`, `Ubuntu`     
+
+```javascript
+(function () {
+  var testArr = ['h', 'e', 'l'];
+  var res = [ 'l', 'o'];
+
+  console.log(testArr.concat(res)); 
+  console.log(testArr); 
+})();
+```
