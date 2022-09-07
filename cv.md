@@ -35,3 +35,6 @@ College graduate: Technician-programmer & Semiconductor manufacturing operator
 
 ## English level
 My English level is Pre-Intermediate. I can speak a little, I understand about 60-100% of speech depending of the situation and theme.
+
+## Projects
+[CV Markdown project link](https://dmkproject.github.io/rsschool-cv/cv)
