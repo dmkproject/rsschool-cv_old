@@ -16,7 +16,9 @@ Markup: `HTML`, `CSS`
 Сore: `JS`, `Java`      
 Db: `MySQL`     
 Other: `Git`, `Linux`, `Bash`       
-Use: `VSCode`, `Idea`, `Ubuntu`     
+Use: `VSCode`, `Idea`, `Ubuntu`    
+
+## Code example
 
 ```javascript
 (function () {
