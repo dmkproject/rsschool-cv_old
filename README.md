@@ -1,3 +1,3 @@
 # rsschool-cv
-stage1 CV Markdown
+CV Markdown
 https://dmkproject.github.io/rsschool-cv/cv
